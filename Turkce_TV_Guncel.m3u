@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="https://iptv-epg.org/files/epg-tr.xml.gz,https://www.open-epg.com/files/turkey3.xml.gz,https://www.open-epg.com/files/turkey4.xml.gz" x-tvg-url="https://iptv-epg.org/files/epg-tr.xml.gz,https://www.open-epg.com/files/turkey3.xml.gz,https://www.open-epg.com/files/turkey4.xml.gz"
+#EXTM3U url-tvg="https://iptv-epg.org/files/epg-tr.xml" x-tvg-url="https://iptv-epg.org/files/epg-tr.xml"
 #PLAYLIST:Türkçe TV - Yerelsiz Spor ve Belgesel
 #EXTINF:-1 tvg-id="TRT1.tr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/trt-1-hd-tr.png" tvg-name="TRT 1" tvg-chno="1" group-title="01 Ulusal",TRT 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
