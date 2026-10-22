@@ -1,11 +1,11 @@
-#EXTM3U url-tvg="https://iptv-epg.org/files/epg-tr.xml" x-tvg-url="https://iptv-epg.org/files/epg-tr.xml"
+#EXTM3U url-tvg="https://iptv-epg.org/files/epg-tr.xml.gz,https://www.open-epg.com/files/turkey3.xml.gz,https://www.open-epg.com/files/turkey4.xml.gz" x-tvg-url="https://iptv-epg.org/files/epg-tr.xml.gz,https://www.open-epg.com/files/turkey3.xml.gz,https://www.open-epg.com/files/turkey4.xml.gz"
 #PLAYLIST:Türkçe TV - Yerelsiz Spor ve Belgesel
 #EXTINF:-1 tvg-id="TRT1.tr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/trt-1-hd-tr.png" tvg-name="TRT 1" tvg-chno="1" group-title="01 Ulusal",TRT 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://tv-trt1.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-id="ATV.tr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/atv-tr.png" tvg-name="ATV" tvg-chno="2" group-title="01 Ulusal",ATV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-http://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv_360p.m3u8
+https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv.m3u8
 #EXTINF:-1 tvg-id="KanalD.tr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/kanal-d-tr.png" tvg-name="Kanal D" tvg-chno="3" group-title="01 Ulusal",Kanal D
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://demiroren.daioncdn.net/kanald/kanald.m3u8?app=kanald_web&ce=3
@@ -14,19 +14,19 @@ https://demiroren.daioncdn.net/kanald/kanald.m3u8?app=kanald_web&ce=3
 https://ciner.daioncdn.net/showtv/showtv.m3u8?ce=3&app=4bc856ef-4c68-4a94-bc87-37dfaaa66558&st=RBzhSuGauna0OGld-DJUVA&e=1664766175&tv=1
 #EXTINF:-1 tvg-id="StarTV.tr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/star-tv-tr.png" tvg-name="Star TV" tvg-chno="5" group-title="01 Ulusal",Star TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://dogus.daioncdn.net/startv/startv_720p.m3u8?app=a20ac41e-bdc3-4aa1-934d-26b484480ac9&ce=3&sid=8l4w3lst4co5
+https://dogus.daioncdn.net/startv/startv.m3u8?app=a20ac41e-bdc3-4aa1-934d-26b484480ac9&ce=3
 #EXTINF:-1 tvg-id="TV8.tr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/tv8-tr.png" tvg-name="TV8" tvg-chno="6" group-title="01 Ulusal",TV8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://tv8.daioncdn.net/tv8/tv8.m3u8?app=7ddc255a-ef47-4e81-ab14-c0e5f2949788&ce=3
 #EXTINF:-1 tvg-id="KANAL7.tr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/kanal-7-tr.png" tvg-name="Kanal 7" tvg-chno="7" group-title="01 Ulusal",Kanal 7
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://kanal7-live.daioncdn.net/kanal7/kanal7_1080p.m3u8
+https://kanal7-live.daioncdn.net/kanal7/kanal7.m3u8
 #EXTINF:-1 tvg-id="A2.tr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/a2-tr.png" tvg-name="a2" tvg-chno="8" group-title="01 Ulusal",a2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/a2tv/a2tv.m3u8
 #EXTINF:-1 tvg-id="BEYAZTV.tr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/beyaz-tv-tr.png" tvg-name="Beyaz TV" tvg-chno="9" group-title="01 Ulusal",Beyaz TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://beyaztv-live.daioncdn.net/beyaztv/beyaztv_1080p.m3u8
+https://beyaztv-live.daioncdn.net/beyaztv/beyaztv.m3u8
 #EXTINF:-1 tvg-id="TV4.tr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/tv4-tr.png" tvg-name="TV4" tvg-chno="10" group-title="01 Ulusal",TV4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://turkmedya-live.ercdn.net/tv4/tv4.m3u8
@@ -54,7 +54,7 @@ https://turkmedya-live.ercdn.net/tv24/tv24.m3u8
 #EXTINF:-1 tvg-id="BloombergHT.tr" tvg-name="Bloomberg HT" tvg-chno="18" group-title="02 Haber ve Ekonomi" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/bloomberg-ht-tr.png",Bloomberg HT
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://ciner.daioncdn.net/bloomberght/bloomberght.m3u8
-#EXTINF:-1 tvg-id="CNBCe.tr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/cnbc-e-tr.png" tvg-name="CNBC-e" tvg-chno="19" group-title="02 Haber ve Ekonomi",CNBC-e
+#EXTINF:-1 tvg-id="CNBC-E.tr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/cnbc-e-tr.png" tvg-name="CNBC-e" tvg-chno="19" group-title="02 Haber ve Ekonomi",CNBC-e
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://hnpsechtsc.turknet.ercdn.net/xpnvudnlsv/cnbc-e/cnbc-e.m3u8
 #EXTINF:-1 tvg-id="EKOTÜRKTV.tr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/ekoturk-tr.png" tvg-name="Ekotürk" tvg-chno="20" group-title="02 Haber ve Ekonomi",Ekotürk
@@ -96,7 +96,7 @@ https://fbtv.fenerbahce.org/fenerbahcetv.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="TJKTV.tr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/tjk-tv-tr.png" tvg-name="TJK TV" tvg-chno="32" group-title="03 Spor",TJK TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://tjktv-live.tjk.org/tjktv.m3u8
-#EXTINF:-1 tvg-id="EkolSports.tr" tvg-logo="https://i.ibb.co/Y4tR1tTm/Ekolsports.jpg" tvg-name="Ekol Sports" tvg-chno="33" group-title="03 Spor",Ekol Sports
+#EXTINF:-1 tvg-id="Ekol Sports.tr" tvg-logo="https://i.ibb.co/Y4tR1tTm/Ekolsports.jpg" tvg-name="Ekol Sports" tvg-chno="33" group-title="03 Spor",Ekol Sports
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://ekoltv-live.ercdn.net/ekolsport/ekolsport.m3u8
 #EXTINF:-1 tvg-id="TRTBelgesel.tr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/trt-belgesel-tr.png" tvg-name="TRT Belgesel" tvg-chno="34" group-title="04 Belgesel ve Kültür",TRT Belgesel
@@ -114,10 +114,10 @@ https://dogus.daioncdn.net/tlc/tlc.m3u8?ce=3&app=1aca0aa1-06e3-41ff-a8e5-38d7df4
 #EXTINF:-1 tvg-id="TRTMüzik.tr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/trt-muzik-tr.png" tvg-name="TRT Müzik" tvg-chno="38" group-title="05 Müzik",TRT Müzik
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://tv-trtmuzik.medya.trt.com.tr/master.m3u8
-#EXTINF:-1 tvg-id="PowerTurkTV.tr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/powerturk-tr.png" tvg-name="PowerTürk TV" tvg-chno="39" group-title="05 Müzik",PowerTürk TV
+#EXTINF:-1 tvg-id="POWER TURK HD.tr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/powerturk-tr.png" tvg-name="PowerTürk TV" tvg-chno="39" group-title="05 Müzik",PowerTürk TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://live.artidijitalmedya.com/artidijital_powerturktv/powerturktv/playlist.m3u8
-#EXTINF:-1 tvg-id="DreamTurk.tr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/dream-turk-tr.png" tvg-name="Dream Türk" tvg-chno="40" group-title="05 Müzik",Dream Türk
+#EXTINF:-1 tvg-id="DREAM TÜRK.tr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/dream-turk-tr.png" tvg-name="Dream Türk" tvg-chno="40" group-title="05 Müzik",Dream Türk
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://live.duhnet.tv/S2/HLS_LIVE/dreamturknp/playlist.m3u8
 #EXTINF:-1 tvg-id="KralPopTV.tr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/kral-pop-tr.png" tvg-name="Kral Pop TV" tvg-chno="41" group-title="05 Müzik",Kral Pop TV
@@ -129,7 +129,7 @@ https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/broadcast_5c9e18
 #EXTINF:-1 tvg-id="Number1Damar.tr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/nr1-damar-tr.png" tvg-name="Number1 Damar" tvg-chno="43" group-title="05 Müzik",Number1 Damar
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/broadcast_5c9e19877b340.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="Number1Turk.tr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/nr1-turk-tr.png" tvg-name="Number1 Türk" tvg-chno="44" group-title="05 Müzik",Number1 Türk
+#EXTINF:-1 tvg-id="NUMBER1 TURK HD.tr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/nr1-turk-tr.png" tvg-name="Number1 Türk" tvg-chno="44" group-title="05 Müzik",Number1 Türk
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/broadcast_5c9e187770143.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="PowerTurkTaptaze.tr" tvg-logo="https://cdn.powergroup.com.tr/image/360x360/powerapp/channels/v3/logo_2534.png" tvg-name="PowerTürk Taptaze" tvg-chno="45" group-title="05 Müzik",PowerTürk Taptaze
