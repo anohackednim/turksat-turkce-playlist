@@ -51,8 +51,6 @@ https://tvvoo.hayd.uk/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv
 https://tvvoo.hayd.uk/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F387890889759c06a2c4da1
 #EXTINF:-1 tvg-id="GLOBAL HABER HD" tvg-name="GLOBAL HABER HD" tvg-logo="https://placehold.co/900x270/12052b/00FFD1.png?font=montserrat&text=GLOBAL%20HABER%20HD" group-title="Haberler",GLOBAL HABER HD
 https://tvvoo.hayd.uk/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F1224377838995614ed0843
-#EXTINF:-1 tvg-id="KANAL 24 HD" tvg-name="KANAL 24 HD" tvg-logo="https://placehold.co/900x270/12052b/00FFD1.png?font=montserrat&text=KANAL%2024%20HD" group-title="Haberler",KANAL 24 HD
-https://tvvoo.hayd.uk/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F4179564147cef11bb1db33
 #EXTINF:-1 tvg-id="NTV HABER HD" tvg-name="NTV HABER HD" tvg-logo="https://placehold.co/900x270/12052b/00FFD1.png?font=montserrat&text=NTV%20HABER%20HD" group-title="Haberler",NTV HABER HD
 https://tvvoo.hayd.uk/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F12204176595f082e0b0497
 #EXTINF:-1 tvg-id="4K TR: SOZCU TV" tvg-name="4K TR: SOZCU TV" tvg-logo="https://raw.githubusercontent.com/qwertyuiop8899/logo/main/generated-covers-world/portrait/u-tv.jpg" group-title="Haberler",4K TR: SOZCU TV
@@ -67,42 +65,24 @@ https://tvvoo.hayd.uk/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv
 https://tvvoo.hayd.uk/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F420748756258a17d4693fc
 #EXTINF:-1 tvg-id="NAT GEO WILD HD" tvg-name="NAT GEO WILD HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/germany/nat-geo-wild-de.png" group-title="Belgesel",NAT GEO WILD HD
 https://tvvoo.hayd.uk/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F1519237116daf8e783a22b
-#EXTINF:-1 tvg-id="TRT SPOR HD" tvg-name="TRT SPOR HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/trt-spor-tr.png" group-title="Spor",TRT SPOR HD
-https://tvvoo.hayd.uk/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F312904614dc748b02d86a
+#EXTINF:-1 tvg-id="A SPOR HD" tvg-name="A SPOR HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/a-spor-tr.png" group-title="Spor",A SPOR HD
+https://tvvoo.hayd.uk/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F2556711030587eed1d7123
 #EXTINF:-1 tvg-id="S-SPORT HD" tvg-name="S-SPORT HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/s-sport-tr.png" group-title="Spor",S-SPORT HD
 https://tvvoo.hayd.uk/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F919993168ebbbfbeecc50
-#EXTINF:-1 tvg-id="BEIN SPORTS 2 HD" tvg-name="BEIN SPORTS 2 HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/bein-sports-2-us.png" group-title="Spor",BEIN SPORTS 2 HD
-https://tvvoo.hayd.uk/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F28515391437e928cafd5dd
-#EXTINF:-1 tvg-id="BEIN SPORTS 3 HD" tvg-name="BEIN SPORTS 3 HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/bein-sports-3-us.png" group-title="Spor",BEIN SPORTS 3 HD
-https://tvvoo.hayd.uk/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F17005958018c5d23b49ef0
-#EXTINF:-1 tvg-id="BEIN SPORTS 4 HD" tvg-name="BEIN SPORTS 4 HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/bein-sports-4-us.png" group-title="Spor",BEIN SPORTS 4 HD
-https://tvvoo.hayd.uk/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F1872232768c7c65ceb9862
-#EXTINF:-1 tvg-id="BEIN SPORTS MAX 1 HD" tvg-name="BEIN SPORTS MAX 1 HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/malaysia/bein-sports-max-hz-my.png" group-title="Spor",BEIN SPORTS MAX 1 HD
-https://tvvoo.hayd.uk/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F22528142332d275721233
+#EXTINF:-1 tvg-id="BEIN SPORTS 1 (720P)" tvg-name="BEIN SPORTS 1 (720P)" tvg-logo="https://raw.githubusercontent.com/qwertyuiop8899/logo/main/generated-covers-world/portrait/bein-sports-1.jpg" group-title="Spor",BEIN SPORTS 1 (720P)
+https://tvvoo.hayd.uk/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F38404756531618c87fcc66
 #EXTINF:-1 tvg-id="HT SPOR HD" tvg-name="HT SPOR HD" tvg-logo="https://placehold.co/900x270/12052b/00FFD1.png?font=montserrat&text=HT%20SPOR%20HD" group-title="Spor",HT SPOR HD
 https://tvvoo.hayd.uk/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F2773338492aa94862b5b31
-#EXTINF:-1 tvg-id="TABII SPOR 3 HD" tvg-name="TABII SPOR 3 HD" tvg-logo="https://raw.githubusercontent.com/qwertyuiop8899/logo/main/generated-covers-world/portrait/3-hd.jpg" group-title="Spor",TABII SPOR 3 HD
-https://tvvoo.hayd.uk/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F1489430754b4fd6e6dc327
-#EXTINF:-1 tvg-id="TABII SPOR 6 HD" tvg-name="TABII SPOR 6 HD" tvg-logo="https://placehold.co/900x270/12052b/00FFD1.png?font=montserrat&text=TABII%20SPOR%206%20HD" group-title="Spor",TABII SPOR 6 HD
-https://tvvoo.hayd.uk/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F270984838ca5cfbf75daa
-#EXTINF:-1 tvg-id="TIVIBU SPOR 1 HD" tvg-name="TIVIBU SPOR 1 HD" tvg-logo="https://placehold.co/900x270/12052b/00FFD1.png?font=montserrat&text=TIVIBU%20SPOR%201%20HD" group-title="Spor",TIVIBU SPOR 1 HD
-https://tvvoo.hayd.uk/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F2046583925cdbd476d8733
-#EXTINF:-1 tvg-id="TIVIBU SPOR 3 HD" tvg-name="TIVIBU SPOR 3 HD" tvg-logo="https://placehold.co/900x270/12052b/00FFD1.png?font=montserrat&text=TIVIBU%20SPOR%203%20HD" group-title="Spor",TIVIBU SPOR 3 HD
-https://tvvoo.hayd.uk/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F100410240872b813d41c94
-#EXTINF:-1 tvg-id="TIVIBU SPOR 4 HD" tvg-name="TIVIBU SPOR 4 HD" tvg-logo="https://placehold.co/900x270/12052b/00FFD1.png?font=montserrat&text=TIVIBU%20SPOR%204%20HD" group-title="Spor",TIVIBU SPOR 4 HD
-https://tvvoo.hayd.uk/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F3307062704472686916fe7
-#EXTINF:-1 tvg-id="TIVIBUSPOR 2 HD" tvg-name="TIVIBUSPOR 2 HD" tvg-logo="https://placehold.co/900x270/12052b/00FFD1.png?font=montserrat&text=TIVIBUSPOR%202%20HD" group-title="Spor",TIVIBUSPOR 2 HD
-https://tvvoo.hayd.uk/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F1465680660b8cd069bfa4c
-#EXTINF:-1 tvg-id="TRT SPOR 2 HD" tvg-name="TRT SPOR 2 HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/trt-spor-2-tr.png" group-title="Spor",TRT SPOR 2 HD
-https://tvvoo.hayd.uk/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F3650641237f3a2bcd94921
-#EXTINF:-1 tvg-id="4K TR: FB TV" tvg-name="4K TR: FB TV" tvg-logo="https://placehold.co/900x270/12052b/00FFD1.png?font=montserrat&text=4K%20TR%3A%20FB%20TV" group-title="Spor",4K TR: FB TV
-https://tvvoo.hayd.uk/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F3730681078c11a26802932
-#EXTINF:-1 tvg-id="BEIN SPORTS 4K FEED(KUTU)" tvg-name="BEIN SPORTS 4K FEED(KUTU)" tvg-logo="https://raw.githubusercontent.com/qwertyuiop8899/logo/main/generated-covers-world/portrait/bein-sports-4.jpg" group-title="Spor",BEIN SPORTS 4K FEED(KUTU)
-https://tvvoo.hayd.uk/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F267105889a25a483e5e80
-#EXTINF:-1 tvg-id="TABII SPOR 1 4K" tvg-name="TABII SPOR 1 4K" tvg-logo="https://placehold.co/900x270/12052b/00FFD1.png?font=montserrat&text=TABII%20SPOR%201%204K" group-title="Spor",TABII SPOR 1 4K
-https://tvvoo.hayd.uk/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F38306913165380d4cf64db
 #EXTINF:-1 tvg-id="S-SPORT PLUS FHD" tvg-name="S-SPORT PLUS FHD" tvg-logo="https://raw.githubusercontent.com/qwertyuiop8899/logo/main/generated-covers-world/portrait/s-sport.jpg" group-title="Spor",S-SPORT PLUS FHD
 https://tvvoo.hayd.uk/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F403604621968c940720735
+#EXTINF:-1 tvg-id="TIVIBU SPOR 1 HD" tvg-name="TIVIBU SPOR 1 HD" tvg-logo="https://placehold.co/900x270/12052b/00FFD1.png?font=montserrat&text=TIVIBU%20SPOR%201%20HD" group-title="Spor",TIVIBU SPOR 1 HD
+https://tvvoo.hayd.uk/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F2046583925cdbd476d8733
+#EXTINF:-1 tvg-id="4K TR: FB TV" tvg-name="4K TR: FB TV" tvg-logo="https://placehold.co/900x270/12052b/00FFD1.png?font=montserrat&text=4K%20TR%3A%20FB%20TV" group-title="Spor",4K TR: FB TV
+https://tvvoo.hayd.uk/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F3730681078c11a26802932
+#EXTINF:-1 tvg-id="TABII SPOR 1 4K" tvg-name="TABII SPOR 1 4K" tvg-logo="https://placehold.co/900x270/12052b/00FFD1.png?font=montserrat&text=TABII%20SPOR%201%204K" group-title="Spor",TABII SPOR 1 4K
+https://tvvoo.hayd.uk/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F38306913165380d4cf64db
+#EXTINF:-1 tvg-id="BABY TV HD" tvg-name="BABY TV HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/argentina/baby-tv-ar.png" group-title="Çocuk",BABY TV HD
+https://tvvoo.hayd.uk/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F27516589959a967260542d
 #EXTINF:-1 tvg-id="NR1 TURK HD" tvg-name="NR1 TURK HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/nr1-turk-tr.png" group-title="Müzik",NR1 TURK HD
 https://tvvoo.hayd.uk/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F3548270931d42334c67c35
 #EXTINF:-1 tvg-id="POWER HD" tvg-name="POWER HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/power-tv-hd-tr.png" group-title="Müzik",POWER HD
@@ -125,6 +105,8 @@ https://tvvoo.hayd.uk/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv
 https://tvvoo.hayd.uk/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F40428875846b4e812374d1
 #EXTINF:-1 tvg-id="4K TR: S NEMA 1002 HD" tvg-name="4K TR: S NEMA 1002 HD" tvg-logo="https://placehold.co/900x270/12052b/00FFD1.png?font=montserrat&text=4K%20TR%3A%20S%20NEMA%201002%20HD" group-title="Genel",4K TR: S NEMA 1002 HD
 https://tvvoo.hayd.uk/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F1076643856c5c88735393f
+#EXTINF:-1 tvg-id="4K TR: S NEMA A LE 2 HD" tvg-name="4K TR: S NEMA A LE 2 HD" tvg-logo="https://placehold.co/900x270/12052b/00FFD1.png?font=montserrat&text=4K%20TR%3A%20S%20NEMA%20A%20LE%202%20HD" group-title="Genel",4K TR: S NEMA A LE 2 HD
+https://tvvoo.hayd.uk/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F30005947634e6b4664fb0b
 #EXTINF:-1 tvg-id="4K TR: S NEMA A LE HD" tvg-name="4K TR: S NEMA A LE HD" tvg-logo="https://raw.githubusercontent.com/qwertyuiop8899/logo/main/generated-covers-world/portrait/e-hd.jpg" group-title="Genel",4K TR: S NEMA A LE HD
 https://tvvoo.hayd.uk/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F698495811d90e484ca252
 #EXTINF:-1 tvg-id="4K TR: S NEMA AKS YON 2 HD" tvg-name="4K TR: S NEMA AKS YON 2 HD" tvg-logo="https://placehold.co/900x270/12052b/00FFD1.png?font=montserrat&text=4K%20TR%3A%20S%20NEMA%20AKS%20YON%202%20HD" group-title="Genel",4K TR: S NEMA AKS YON 2 HD
@@ -133,17 +115,27 @@ https://tvvoo.hayd.uk/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv
 https://tvvoo.hayd.uk/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F27613851667b0cf470c1d7
 #EXTINF:-1 tvg-id="4K TR: S NEMA TV AKS YON HD" tvg-name="4K TR: S NEMA TV AKS YON HD" tvg-logo="https://placehold.co/900x270/12052b/00FFD1.png?font=montserrat&text=4K%20TR%3A%20S%20NEMA%20TV%20AKS%20YON%20HD" group-title="Genel",4K TR: S NEMA TV AKS YON HD
 https://tvvoo.hayd.uk/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F2246993811df5da1c0152b
+#EXTINF:-1 tvg-id="4K TR: S NEMA TV HD" tvg-name="4K TR: S NEMA TV HD" tvg-logo="https://raw.githubusercontent.com/qwertyuiop8899/logo/main/generated-covers-world/portrait/atv-hd.jpg" group-title="Genel",4K TR: S NEMA TV HD
+https://tvvoo.hayd.uk/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F2780830033f62b9d4a4669
 #EXTINF:-1 tvg-id="ANIMATION 1 HD" tvg-name="ANIMATION 1 HD" tvg-logo="https://placehold.co/900x270/12052b/00FFD1.png?font=montserrat&text=ANIMATION%201%20HD" group-title="Genel",ANIMATION 1 HD
 https://tvvoo.hayd.uk/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F7274274379cbbe0c37b06
 #EXTINF:-1 tvg-id="APARA HD" tvg-name="APARA HD" tvg-logo="https://raw.githubusercontent.com/qwertyuiop8899/logo/main/generated-covers-world/portrait/a-para.jpg" group-title="Genel",APARA HD
 https://tvvoo.hayd.uk/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F9314064096e814315889b
+#EXTINF:-1 tvg-id="BARBIE ANIMATION 2 HD" tvg-name="BARBIE ANIMATION 2 HD" tvg-logo="https://placehold.co/900x270/12052b/00FFD1.png?font=montserrat&text=BARBIE%20ANIMATION%202%20HD" group-title="Genel",BARBIE ANIMATION 2 HD
+https://tvvoo.hayd.uk/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F280573123054a8c61dd62
 #EXTINF:-1 tvg-id="BEIN GURME HD" tvg-name="BEIN GURME HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/bein-gurme-hd-tr.png" group-title="Genel",BEIN GURME HD
 https://tvvoo.hayd.uk/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F9503946561e741aaf1f5f
+#EXTINF:-1 tvg-id="IDMAN TV HD" tvg-name="IDMAN TV HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/azerbaijan/idman-tv-tr.png" group-title="Genel",IDMAN TV HD
+https://tvvoo.hayd.uk/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F2368422760ba45ce579307
 #EXTINF:-1 tvg-id="KRT TV HD" tvg-name="KRT TV HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/krt-tr.png" group-title="Genel",KRT TV HD
 https://tvvoo.hayd.uk/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F535260022435d62839cf5
+#EXTINF:-1 tvg-id="NILOYA HD+" tvg-name="NILOYA HD+" tvg-logo="https://raw.githubusercontent.com/qwertyuiop8899/logo/main/generated-covers-world/portrait/a-hd.jpg" group-title="Genel",NILOYA HD+
+https://tvvoo.hayd.uk/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F692811579f95ab595b603
 #EXTINF:-1 tvg-id="YABAN TV HD" tvg-name="YABAN TV HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/yaban-tr.png" group-title="Genel",YABAN TV HD
 https://tvvoo.hayd.uk/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F178850393550c13d869fbf
 #EXTINF:-1 tvg-id="4K TR: BENG T RK" tvg-name="4K TR: BENG T RK" tvg-logo="https://placehold.co/900x270/12052b/00FFD1.png?font=montserrat&text=4K%20TR%3A%20BENG%20T%20RK" group-title="Genel",4K TR: BENG T RK
 https://tvvoo.hayd.uk/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F2702376790ed1b5502281a
+#EXTINF:-1 tvg-id="4K TR: EPIC DRAMA" tvg-name="4K TR: EPIC DRAMA" tvg-logo="https://raw.githubusercontent.com/qwertyuiop8899/logo/main/generated-covers-world/portrait/epic-drama.jpg" group-title="Genel",4K TR: EPIC DRAMA
+https://tvvoo.hayd.uk/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F6782616930c5115ad7507
 #EXTINF:-1 tvg-id="4K TR: TV 4" tvg-name="4K TR: TV 4" tvg-logo="https://raw.githubusercontent.com/qwertyuiop8899/logo/main/generated-covers-world/portrait/tv-4.jpg" group-title="Genel",4K TR: TV 4
 https://tvvoo.hayd.uk/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F3574429625ab8ee4e1aaa
